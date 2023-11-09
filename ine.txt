@@ -1,0 +1,9 @@
+Nombre: Gómez Flores Luis Enrique
+Sexo: H
+Domicilio: micasa
+Clave de Elector: 123
+CURP: GOFL031008HDFLMSA1
+Fecha de Nacimiento: 8/10/2003
+Sección: 826
+Año de Registro: 2021
+Vigencia: 2021 - 2031
